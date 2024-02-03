@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.banner-top{
+    width: 100vw;
+}
+.banner-top .owl-stage-outer .owl-item{
+    height: 100vh;
+    width: 50vw;
+}
+.banner-background{
+    height: 100vh;
+    width: 100vw;
+}
